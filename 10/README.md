@@ -6,7 +6,7 @@
 
 Na "Famigerada" fórmula de báskhara, que serve para calcular as raízes de uma equação de segundo grau, o primeiro passo é calcular o valor de delta, a partir dos coeficientes $a$, $b$ e $c$. Dado uma equação de segundo grau no formato:
 
-$$ ax^2 + bx + c = 0 $$
+ $$ax^2 + bx + c = 0 $$
 
 A fórmula de $delta$ é obtida por:
 
